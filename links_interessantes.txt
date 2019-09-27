@@ -1,0 +1,10 @@
+https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=pt-br
+http://www.cienciaedados.com/conceitos-fundamentais-de-machine-learning/
+https://www.youtube.com/watch?v=zvmbB3315Ko
+https://paulovasconcellos.com.br/como-criar-seu-primeiro-aplicativo-de-machine-learning-7b6af291ba11
+https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
+https://www.digitalocean.com/community/tutorials/como-construir-um-classificador-de-machine-learning-em-python-com-scikit-learn-pt
+https://www.youtube.com/watch?v=MMlDyq-8eAQ
+https://www.youtube.com/watch?v=WeNMhuNecto
+http://neylsoncrepalde.github.io/2018-02-25-regressao-linear-python/
+http://www.cienciaedados.com/analise-de-sentimentos-e-machine-learning/
